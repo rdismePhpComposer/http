@@ -1,0 +1,21 @@
+{
+    "name": "rdisme/http",
+    "description": "http 相关操作类",
+    "authors": [
+        {
+            "name": "rdisme",
+            "email": "rendao.sun@foxmail.com"
+        }
+    ],
+    "keywords": [
+        "get",
+        "post",
+        "http"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rhttp\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
